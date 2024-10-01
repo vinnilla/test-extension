@@ -1,0 +1,25 @@
+#logo-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#logo {
+  width: 110px;
+}
+
+#history-container {
+  margin: 25px;
+}
+
+#history-title {
+  font-weight: bold;
+}
+
+#history {
+  padding: 0px;
+}
+
+.url {
+  border-top: #B3B3B3 1px solid;
+}
